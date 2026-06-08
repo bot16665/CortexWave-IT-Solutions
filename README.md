@@ -160,8 +160,8 @@ The contact form currently logs data to the browser console. To make it function
 ## 📞 Contact Section
 
 Current contact information can be customized:
-- Phone: 9768742926
-- WhatsApp: 9768742926
+- Phone: 7718061698
+- WhatsApp: 7718061698
 - Email: singhayush6565@gmail.com
 - Service Area: Maharashtra
 
