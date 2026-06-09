@@ -1,6 +1,6 @@
-# ITCore Solutions - Website
+# CortexWave IT Solutions - Website
 
-Complete website for ITCore Solutions - an IT setup and support services company.
+Complete website for CortexWave IT Solutions - an IT setup and support services company.
 
 ## 📁 Project Structure
 
